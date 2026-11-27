@@ -24,4 +24,12 @@ https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m
 https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" group-title="Free TV",Gulli
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="Free TV",BFM TV
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="Free TV",CNEWS
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="Free TV",LCI
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="Free TV",France Info
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
 
