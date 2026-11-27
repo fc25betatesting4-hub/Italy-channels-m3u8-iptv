@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="Free TV",TF1
-https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=8
+https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="Free TV",France 2
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/fragment.ts?bitrate=8192000&audioId=1&videoId=0&startTime=817478196820
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="Free TV",France 3
-https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=4
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="Free TV",France 4
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="Free TV",France 5
