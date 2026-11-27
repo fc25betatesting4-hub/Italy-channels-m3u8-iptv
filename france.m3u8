@@ -42,4 +42,16 @@ https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.
 https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" group-title="Free TV",L'Équipe
 https://dq37unyetkpcz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/fdfe6791-69ec-4cb4-a069-3cacad1c705e/4.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="Free TV",6ter
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="Free TV",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/4c7b4a50-d30e-48d6-8c30-ecd5bf836643/0.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="Free TV",RMC Decouverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/e703dd76-f66c-483d-a3f8-b78b3ba3f725/0.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-life-fr.png" group-title="Free TV",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/126a24e4-7dde-458b-931e-35ab08dc667c/0.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" group-title="Free TV",Paris Première
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" group-title="Free TV",Paris Première
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
 
