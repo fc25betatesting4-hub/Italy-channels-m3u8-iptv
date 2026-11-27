@@ -12,7 +12,7 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Free TV",Italia 1
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
-#EXTINF:-1 tvg-chno="88" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Free TV",La 7
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Free TV",La 7
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live_1080_3500k.m3u8
 
 
