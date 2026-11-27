@@ -3,10 +3,25 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="Free TV",TF1
 https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="Free TV",France 2
-https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/fragment.ts?bitrate=8192000&audioId=1&videoId=0&startTime=817478196820
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="Free TV",France 3
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="Free TV",France 4
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="Free TV",France 5
 https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="Free TV",M6
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="Free TV",arte
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" group-title="Free TV",La Chaîne Parlementaire
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="Free TV",W9
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" group-title="Free TV",TMC
+https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="Free TV",TFX
+https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" group-title="Free TV",Gulli
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
+
