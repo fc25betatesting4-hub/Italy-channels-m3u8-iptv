@@ -2,6 +2,9 @@
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Free TV",Rai 1
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8?bitrate=3192000&audioId=1&videoId=8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="Free TV",Rai 2
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Free TV",Rai 2
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_due/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
-RAW Paste Data 
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Free TV",Rai 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Free TV",Rete 4
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8?bitrate=1192000&audioId=1&videoId=12
