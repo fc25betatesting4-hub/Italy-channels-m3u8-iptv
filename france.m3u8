@@ -1,6 +1,6 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml"
 #EXTREM: KO !!!!
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="Free TV",TF1
+#EXTINF:-1 tvg-id="443174" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="Free TV",TF1
 https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="Free TV",France 2
 https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8?bitrate=8192000&audioId=1&videoId=0
